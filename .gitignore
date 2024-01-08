@@ -1,0 +1,11 @@
+content/
+test.spacy
+train.spacy
+env/
+df_cleaned.csv
+ner_annotation_fr.json
+sauvegarde/
+output/
+workspace/
+transcripts/
+test/
